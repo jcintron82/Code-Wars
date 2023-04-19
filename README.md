@@ -1,1 +1,1 @@
-# CodeWars-Solutions
+# HackerRank-Solutions
